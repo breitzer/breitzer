@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm breitzer!</h1>
-<h3 align="center">A  ~~lazy~~ developer from UA/USA.</h3>
+<h3 align="center">A ~~lazy~~ developer from UA/USA.</h3>
 
 - 👨‍💻 I’m currently working on [text role-playing server in the game GTA 5 based on alt:V multiplayer.](https://github.com/vibe-rp)
 
