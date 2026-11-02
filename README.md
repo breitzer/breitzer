@@ -20,7 +20,6 @@ Currently converting a law practice management platform to a multi-tenant SaaS â
 
 - Working on **multi-tenant Laravel SaaS** with WebAuthn passkeys and RAG/AI
 - Interested in **web security**, **CTF**, and **Kali Linux**
-- Discord: **dev.nemo**
 
 ---
 
@@ -91,6 +90,6 @@ Currently converting a law practice management platform to a multi-tenant SaaS â
 
 <div align="center">
 
-`BTC: bc1qnvurqwm4j8tqnyqytrllg0l0fn9evhxsvmqlsr`
+`BTC: `
 
 </div>
